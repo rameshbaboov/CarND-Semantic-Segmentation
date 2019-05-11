@@ -94,18 +94,18 @@ Load the pre-trained VGG16 model into Tensorflow using the function Load_VGG and
 
 ```
 
-< img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/2%20(2).JPG"  width = "500" >
+<img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/2%20(2).JPG"  width = "500" >
 
-< img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/2.JPG""  width = "500" >
+<img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/2.JPG""  width = "500" >
 
-< img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/4.JPG  width = "500" >
+<img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/4.JPG  width = "500" >
 
-< img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/5.JPG"  width = "500" >
+<img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/5.JPG"  width = "500" >
 
-< img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/6.JPG"  width = "500" >
+<img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/6.JPG"  width = "500" >
 
-< img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/7.JPG"  width = "500" >
+<img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/7.JPG"  width = "500" >
 
-< img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/8.JPG"  width = "500" >
+<img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/8.JPG"  width = "500" >
 
-< img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/9.JPG"  width = "500" >
+<img src = "https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/9.JPG"  width = "500" >
