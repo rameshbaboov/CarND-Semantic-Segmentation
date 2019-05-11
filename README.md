@@ -16,7 +16,7 @@ The Semantic Segmentation architecture consists of two components of the Neural 
 3. Upsampling of these discriminated feature is done using the transposed convolution using tf.layers.conv2d_transpose
 
 
-<img src = 1.jpg>
+< img src = https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/1.JPG  width = "500" >
 
 <img src = 11.jpg>
 
@@ -90,19 +90,20 @@ Load the pre-trained VGG16 model into Tensorflow using the function Load_VGG and
                   0.051846702
                   0.050137407
 
+```
 
 <src img=10.jpg>
 
-<src img=2.jpg>
+< img src = https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/2.JPG  width = "500" >
 
-<src img=4.jpg>
+< img src = https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/4.JPG  width = "500" >
 
-<src img=5.jpg>
+< img src = https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/5.JPG  width = "500" >
 
-<src img=6.jpg>
+< img src = https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/6.JPG  width = "500" >
 
-<src img=7.jpg>
+< img src = https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/7.JPG  width = "500" >
 
-<src img=8.jpg>
+< img src = https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/8.JPG  width = "500" >
 
-<src img=9.jpg>
+< img src = https://github.com/rameshbaboov/CarND-Semantic-Segmentation/blob/master/img/9.JPG  width = "500" >
